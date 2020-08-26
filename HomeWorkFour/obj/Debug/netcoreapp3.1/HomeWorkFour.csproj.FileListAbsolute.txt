@@ -1,0 +1,45 @@
+G:\лера работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.deps.json
+G:\лера работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.dll
+G:\лера работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.pdb
+G:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csproj.CoreCompileInputs.cache
+G:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfoInputs.cache
+G:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfo.cs
+G:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.dll
+G:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.pdb
+G:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csprojAssemblyReference.cache
+D:\лера работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.deps.json
+D:\лера работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.dll
+D:\лера работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.pdb
+D:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csprojAssemblyReference.cache
+D:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csproj.CoreCompileInputs.cache
+D:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfoInputs.cache
+D:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfo.cs
+D:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.dll
+D:\лера работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.pdb
+D:\My работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.deps.json
+D:\My работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.dll
+D:\My работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.pdb
+D:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csprojAssemblyReference.cache
+D:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csproj.CoreCompileInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfoInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfo.cs
+D:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.dll
+D:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.pdb
+G:\My работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.deps.json
+G:\My работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.dll
+G:\My работы\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.pdb
+G:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csproj.CoreCompileInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfoInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfo.cs
+G:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.dll
+G:\My работы\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.deps.json
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFour\bin\Debug\netcoreapp3.1\HomeWorkFour.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csprojAssemblyReference.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfoInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.AssemblyInfo.cs
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.csproj.CoreCompileInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFour\obj\Debug\netcoreapp3.1\HomeWorkFour.pdb

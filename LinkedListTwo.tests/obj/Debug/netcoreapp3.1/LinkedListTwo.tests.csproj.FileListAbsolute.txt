@@ -1,0 +1,196 @@
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.deps.json
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.runtimeconfig.json
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.runtimeconfig.dev.json
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.pdb
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\testhost.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.pdb
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.csproj.CoreCompileInputs.cache
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.AssemblyInfoInputs.cache
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.AssemblyInfo.cs
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.csproj.CopyComplete
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.dll
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.pdb
+G:\My работы\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.genruntimeconfig.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.csprojAssemblyReference.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.AssemblyInfoInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.AssemblyInfo.cs
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.csproj.CoreCompileInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.deps.json
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.runtimeconfig.json
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.runtimeconfig.dev.json
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.tests.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\bin\Debug\netcoreapp3.1\LinkedListTwo.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.csproj.CopyComplete
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo.tests\obj\Debug\netcoreapp3.1\LinkedListTwo.tests.genruntimeconfig.cache

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Roman\.nuget\packages\microsoft.net.test.sdk\16.4.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Roman\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\Roman\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\Roman\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Roman\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_HomeWorkAll.-1786533323.00" t="ExcludeRecursive" />
+    <e p="G:\My работы\HomeWorkAll" t="IncludeFlat">
+      <e p="HomeWorkAll" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HomeWorkAll.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkAll.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="HomeWorkAll.sln" t="IncludeFlat" />
+      <e p="HomeWorkFive" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HomeWorkFive.csproj" t="IncludeRecursive" />
+        <e p="HWFive.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkFive.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HomeWorkFive.tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HomeWorkFive.tests.csproj" t="IncludeRecursive" />
+        <e p="HWfivetests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkFive.tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HomeWorkFour" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HomeWorkFour.csproj" t="IncludeRecursive" />
+        <e p="HWFour.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkFour.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HomeWorkFour.test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HomeWorkFour.test.csproj" t="IncludeRecursive" />
+        <e p="HWFourTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkFour.test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HomeWorkOne" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HomeWorkOne.csproj" t="IncludeRecursive" />
+        <e p="HWOne.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkOne.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HomeWorkOne.test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HomeWorkOne.test.csproj" t="IncludeRecursive" />
+        <e p="HWOneTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkOne.test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HomeWorkThree" t="IncludeRecursive">
+        <e p="ActionCalc.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calculate.cs" t="Include" />
+        <e p="Cycles.cs" t="Include" />
+        <e p="HomeWorkThree.csproj" t="IncludeRecursive" />
+        <e p="HW.cs" t="Include" />
+        <e p="NestedCycles.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkThree.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OneArray.cs" t="Include" />
+        <e p="TwoArray.cs" t="Include" />
+      </e>
+      <e p="HomeWorkThree.tests" t="IncludeRecursive">
+        <e p="ArrayTest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CalculateTest.cs" t="Include" />
+        <e p="CyclesTest.cs" t="Include" />
+        <e p="HomeWorkThree.tests.csproj" t="IncludeRecursive" />
+        <e p="NestedCyclesTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkThree.tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TwoArrayTest.cs" t="Include" />
+      </e>
+      <e p="HomeWorkTwo" t="IncludeRecursive">
+        <e p="Arrays.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Conditions.cs" t="Include" />
+        <e p="Cycles.cs" t="Include" />
+        <e p="HomeWork.cs" t="Include" />
+        <e p="HomeWorkTwo.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkTwo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HomeWorkTwo.tests" t="IncludeRecursive">
+        <e p="ArrayTest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Conditionstest.cs" t="Include" />
+        <e p="CyclesTest.cs" t="Include" />
+        <e p="HomeWorkTwo.tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HomeWorkTwo.tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HWLinkedList" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HWLinkedList.csproj" t="IncludeRecursive" />
+        <e p="LinkedList.cs" t="Include" />
+        <e p="Node.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HWLinkedList.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HWLinkedList.tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HWLinkedList.tests.csproj" t="IncludeRecursive" />
+        <e p="LinkedListTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HWLinkedList.tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="LinkedListTwo" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LinkedListTwo.csproj" t="IncludeRecursive" />
+        <e p="LListTwo.cs" t="Include" />
+        <e p="Node.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LinkedListTwo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="LinkedListTwo.tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LinkedListTwo.tests.csproj" t="IncludeRecursive" />
+        <e p="LinkedListTwoTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LinkedListTwo.tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

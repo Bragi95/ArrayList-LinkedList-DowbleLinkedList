@@ -1,0 +1,13 @@
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.csprojAssemblyReference.cache
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.AssemblyInfoInputs.cache
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.AssemblyInfo.cs
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.exe
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.deps.json
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.runtimeconfig.json
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.runtimeconfig.dev.json
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.dll
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.pdb
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.dll
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.pdb
+C:\Users\фа947\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.genruntimeconfig.cache

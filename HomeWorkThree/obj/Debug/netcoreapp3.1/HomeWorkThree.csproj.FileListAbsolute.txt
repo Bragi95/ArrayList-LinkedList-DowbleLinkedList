@@ -1,0 +1,54 @@
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.deps.json
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csprojAssemblyReference.cache
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csproj.CoreCompileInputs.cache
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfoInputs.cache
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfo.cs
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.dll
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.pdb
+D:\лера работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.deps.json
+D:\лера работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+D:\лера работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+D:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csprojAssemblyReference.cache
+D:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csproj.CoreCompileInputs.cache
+D:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfoInputs.cache
+D:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfo.cs
+D:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.dll
+D:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.pdb
+G:\лера работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.deps.json
+G:\лера работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+G:\лера работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+G:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csprojAssemblyReference.cache
+G:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csproj.CoreCompileInputs.cache
+G:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfoInputs.cache
+G:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfo.cs
+G:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.dll
+G:\лера работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.pdb
+D:\My работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.deps.json
+D:\My работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+D:\My работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+D:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csprojAssemblyReference.cache
+D:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csproj.CoreCompileInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfoInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfo.cs
+D:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.dll
+D:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.pdb
+G:\My работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.deps.json
+G:\My работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+G:\My работы\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+G:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csproj.CoreCompileInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfoInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfo.cs
+G:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.dll
+G:\My работы\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.deps.json
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csprojAssemblyReference.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfoInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfo.cs
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csproj.CoreCompileInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.pdb

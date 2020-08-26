@@ -1,0 +1,182 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HomeWorkFive/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HomeWorkFive.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HomeWorkFive.dll": {}
+        }
+      },
+      "HomeWorkOne/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HomeWorkOne.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HomeWorkOne.dll": {}
+        }
+      },
+      "HomeWorkThree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HomeWorkThree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HomeWorkThree.dll": {}
+        }
+      },
+      "HomeWorkTwo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HomeWorkTwo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HomeWorkTwo.dll": {}
+        }
+      },
+      "HWLinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "HomeWorkFive": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HWLinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HWLinkedList.dll": {}
+        }
+      },
+      "LinkedListTwo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LinkedListTwo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinkedListTwo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWorkFive/1.0.0": {
+      "type": "project",
+      "path": "../HomeWorkFive/HomeWorkFive.csproj",
+      "msbuildProject": "../HomeWorkFive/HomeWorkFive.csproj"
+    },
+    "HomeWorkOne/1.0.0": {
+      "type": "project",
+      "path": "../HomeWorkOne/HomeWorkOne.csproj",
+      "msbuildProject": "../HomeWorkOne/HomeWorkOne.csproj"
+    },
+    "HomeWorkThree/1.0.0": {
+      "type": "project",
+      "path": "../HomeWorkThree/HomeWorkThree.csproj",
+      "msbuildProject": "../HomeWorkThree/HomeWorkThree.csproj"
+    },
+    "HomeWorkTwo/1.0.0": {
+      "type": "project",
+      "path": "../HomeWorkTwo/HomeWorkTwo.csproj",
+      "msbuildProject": "../HomeWorkTwo/HomeWorkTwo.csproj"
+    },
+    "HWLinkedList/1.0.0": {
+      "type": "project",
+      "path": "../HWLinkedList/HWLinkedList.csproj",
+      "msbuildProject": "../HWLinkedList/HWLinkedList.csproj"
+    },
+    "LinkedListTwo/1.0.0": {
+      "type": "project",
+      "path": "../LinkedListTwo/LinkedListTwo.csproj",
+      "msbuildProject": "../LinkedListTwo/LinkedListTwo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "HWLinkedList >= 1.0.0",
+      "HomeWorkOne >= 1.0.0",
+      "HomeWorkThree >= 1.0.0",
+      "HomeWorkTwo >= 1.0.0",
+      "LinkedListTwo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Daramir\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkAll\\HomeWorkAll.csproj",
+      "projectName": "HomeWorkAll",
+      "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkAll\\HomeWorkAll.csproj",
+      "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkAll\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj": {
+              "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj"
+            },
+            "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj": {
+              "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj"
+            },
+            "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj": {
+              "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj"
+            },
+            "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj": {
+              "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj"
+            },
+            "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj": {
+              "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

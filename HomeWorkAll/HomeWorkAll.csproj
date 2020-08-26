@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HomeWorkOne\HomeWorkOne.csproj" />
+    <ProjectReference Include="..\HomeWorkThree\HomeWorkThree.csproj" />
+    <ProjectReference Include="..\HomeWorkTwo\HomeWorkTwo.csproj" />
+    <ProjectReference Include="..\HWLinkedList\HWLinkedList.csproj" />
+    <ProjectReference Include="..\LinkedListTwo\LinkedListTwo.csproj" />
+  </ItemGroup>
+
+</Project>

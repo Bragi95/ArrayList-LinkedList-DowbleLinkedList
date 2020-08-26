@@ -1,0 +1,13 @@
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Release\netcoreapp3.1\Calc.exe
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Release\netcoreapp3.1\Calc.deps.json
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Release\netcoreapp3.1\Calc.runtimeconfig.json
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Release\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Release\netcoreapp3.1\Calc.dll
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Release\netcoreapp3.1\Calc.pdb
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Release\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Release\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Release\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Release\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Release\netcoreapp3.1\Calc.dll
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Release\netcoreapp3.1\Calc.pdb
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Release\netcoreapp3.1\Calc.genruntimeconfig.cache

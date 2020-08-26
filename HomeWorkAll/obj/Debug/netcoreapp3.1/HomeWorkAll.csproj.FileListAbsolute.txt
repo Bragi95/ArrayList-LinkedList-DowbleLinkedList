@@ -1,0 +1,130 @@
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.exe
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.deps.json
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.json
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.dev.json
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.dll
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.pdb
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csprojAssemblyReference.cache
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CoreCompileInputs.cache
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfoInputs.cache
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfo.cs
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CopyComplete
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.dll
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.pdb
+C:\Users\фа947\source\repos\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.genruntimeconfig.cache
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.exe
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.deps.json
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.json
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.dev.json
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.dll
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.pdb
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+D:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csprojAssemblyReference.cache
+D:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CoreCompileInputs.cache
+D:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfoInputs.cache
+D:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfo.cs
+D:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CopyComplete
+D:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.dll
+D:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.pdb
+D:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.genruntimeconfig.cache
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.exe
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.deps.json
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.json
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.dev.json
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.dll
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.pdb
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+G:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csprojAssemblyReference.cache
+G:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CoreCompileInputs.cache
+G:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfoInputs.cache
+G:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfo.cs
+G:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CopyComplete
+G:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.dll
+G:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.pdb
+G:\лера работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.genruntimeconfig.cache
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.dll
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+G:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.pdb
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.dll
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+D:\лера работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.pdb
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.exe
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.deps.json
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.json
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.dev.json
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.dll
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.pdb
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.dll
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.pdb
+D:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csprojAssemblyReference.cache
+D:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CoreCompileInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfoInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfo.cs
+D:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CopyComplete
+D:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.dll
+D:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.pdb
+D:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.genruntimeconfig.cache
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HWLinkedList.dll
+D:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HWLinkedList.pdb
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.exe
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.deps.json
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.json
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.dev.json
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.dll
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.pdb
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.dll
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HWLinkedList.dll
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.pdb
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HWLinkedList.pdb
+G:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CoreCompileInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfoInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfo.cs
+G:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CopyComplete
+G:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.dll
+G:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.pdb
+G:\My работы\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.genruntimeconfig.cache
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\LinkedListTwo.dll
+G:\My работы\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\LinkedListTwo.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csprojAssemblyReference.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfoInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfo.cs
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CoreCompileInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.exe
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.deps.json
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.json
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.dev.json
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HWLinkedList.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\LinkedListTwo.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HWLinkedList.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\LinkedListTwo.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CopyComplete
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+D:\My работы\HomeWorkAll\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.deps.json
+D:\My работы\HomeWorkAll\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+D:\My работы\HomeWorkAll\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+D:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.csproj.CoreCompileInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.AssemblyInfoInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.AssemblyInfo.cs
+D:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.dll
+D:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.pdb
+D:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.deps.json
+G:\My работы\HomeWorkAll\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+G:\My работы\HomeWorkAll\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+G:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.csproj.CoreCompileInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.AssemblyInfoInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.AssemblyInfo.cs
+G:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.dll
+G:\My работы\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.deps.json
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.csprojAssemblyReference.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.AssemblyInfoInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.AssemblyInfo.cs
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.csproj.CoreCompileInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.pdb

@@ -1,0 +1,392 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkAll\\HomeWorkAll.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkAll\\HomeWorkAll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkAll\\HomeWorkAll.csproj",
+        "projectName": "HomeWorkAll",
+        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkAll\\HomeWorkAll.csproj",
+        "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkAll\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj": {
+                "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj"
+              },
+              "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj": {
+                "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj"
+              },
+              "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj": {
+                "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj"
+              },
+              "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj": {
+                "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj"
+              },
+              "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj": {
+                "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj",
+        "projectName": "HomeWorkFive",
+        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj",
+        "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj",
+        "projectName": "HomeWorkOne",
+        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj",
+        "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj",
+        "projectName": "HomeWorkThree",
+        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj",
+        "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj",
+        "projectName": "HomeWorkTwo",
+        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj",
+        "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj",
+        "projectName": "HWLinkedList",
+        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj",
+        "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj": {
+                "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj",
+        "projectName": "LinkedListTwo",
+        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj",
+        "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

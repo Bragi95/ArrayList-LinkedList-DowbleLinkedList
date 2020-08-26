@@ -1,0 +1,18 @@
+G:\My работы\HomeWorkAll\LinkedListTwo\bin\Debug\netcoreapp3.1\LinkedListTwo.deps.json
+G:\My работы\HomeWorkAll\LinkedListTwo\bin\Debug\netcoreapp3.1\LinkedListTwo.dll
+G:\My работы\HomeWorkAll\LinkedListTwo\bin\Debug\netcoreapp3.1\LinkedListTwo.pdb
+G:\My работы\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.csproj.CoreCompileInputs.cache
+G:\My работы\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.AssemblyInfoInputs.cache
+G:\My работы\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.AssemblyInfo.cs
+G:\My работы\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.dll
+G:\My работы\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\bin\Debug\netcoreapp3.1\LinkedListTwo.deps.json
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\bin\Debug\netcoreapp3.1\LinkedListTwo.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\bin\Debug\netcoreapp3.1\LinkedListTwo.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.csprojAssemblyReference.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.AssemblyInfoInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.AssemblyInfo.cs
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.csproj.CoreCompileInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.pdb

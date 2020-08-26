@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "G:\\My работы\\HomeWorkAll\\HomeWorkAll\\HomeWorkAll.csproj",
+    "projectName": "HomeWorkAll",
+    "projectPath": "G:\\My работы\\HomeWorkAll\\HomeWorkAll\\HomeWorkAll.csproj",
+    "outputPath": "G:\\My работы\\HomeWorkAll\\HomeWorkAll\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "G:\\My работы\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj": {
+            "projectPath": "G:\\My работы\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj"
+          },
+          "G:\\My работы\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj": {
+            "projectPath": "G:\\My работы\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj"
+          },
+          "G:\\My работы\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj": {
+            "projectPath": "G:\\My работы\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj"
+          },
+          "G:\\My работы\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj": {
+            "projectPath": "G:\\My работы\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj"
+          },
+          "G:\\My работы\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj": {
+            "projectPath": "G:\\My работы\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

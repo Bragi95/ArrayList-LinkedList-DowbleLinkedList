@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HomeWorkAll/1.0.0": {
+        "dependencies": {
+          "HWLinkedList": "1.0.0",
+          "HomeWorkOne": "1.0.0",
+          "HomeWorkThree": "1.0.0",
+          "HomeWorkTwo": "1.0.0",
+          "LinkedListTwo": "1.0.0"
+        },
+        "runtime": {
+          "HomeWorkAll.dll": {}
+        }
+      },
+      "HomeWorkFive/1.0.0": {
+        "runtime": {
+          "HomeWorkFive.dll": {}
+        }
+      },
+      "HomeWorkOne/1.0.0": {
+        "runtime": {
+          "HomeWorkOne.dll": {}
+        }
+      },
+      "HomeWorkThree/1.0.0": {
+        "runtime": {
+          "HomeWorkThree.dll": {}
+        }
+      },
+      "HomeWorkTwo/1.0.0": {
+        "runtime": {
+          "HomeWorkTwo.dll": {}
+        }
+      },
+      "HWLinkedList/1.0.0": {
+        "dependencies": {
+          "HomeWorkFive": "1.0.0"
+        },
+        "runtime": {
+          "HWLinkedList.dll": {}
+        }
+      },
+      "LinkedListTwo/1.0.0": {
+        "runtime": {
+          "LinkedListTwo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWorkAll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeWorkFive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeWorkOne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeWorkThree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeWorkTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HWLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinkedListTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

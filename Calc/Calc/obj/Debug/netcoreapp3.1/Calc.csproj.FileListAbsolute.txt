@@ -1,0 +1,65 @@
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Roman\Source\Repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Roman\Source\Repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
+C:\Users\фа947\Desktop\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\фа947\Desktop\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\Users\фа947\Desktop\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\Users\фа947\Desktop\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\Users\фа947\Desktop\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\фа947\Desktop\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\фа947\Desktop\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+C:\Users\фа947\Desktop\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\фа947\Desktop\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\фа947\Desktop\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\фа947\Desktop\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\Users\фа947\Desktop\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\фа947\Desktop\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
+G:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+G:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+G:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+G:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+G:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+G:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+G:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+G:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+G:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+G:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+G:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+G:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+G:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
+D:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+D:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+D:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+D:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+D:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+D:\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+D:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+D:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+D:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+D:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+D:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+D:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+D:\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
+G:\лера работы\HomeWorkAll\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+G:\лера работы\HomeWorkAll\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+G:\лера работы\HomeWorkAll\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+G:\лера работы\HomeWorkAll\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+G:\лера работы\HomeWorkAll\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+G:\лера работы\HomeWorkAll\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+G:\лера работы\HomeWorkAll\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+G:\лера работы\HomeWorkAll\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+G:\лера работы\HomeWorkAll\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+G:\лера работы\HomeWorkAll\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+G:\лера работы\HomeWorkAll\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+G:\лера работы\HomeWorkAll\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+G:\лера работы\HomeWorkAll\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache

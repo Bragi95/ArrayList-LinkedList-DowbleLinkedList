@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HWLinkedList/1.0.0": {
+        "dependencies": {
+          "HomeWorkFive": "1.0.0"
+        },
+        "runtime": {
+          "HWLinkedList.dll": {}
+        }
+      },
+      "HomeWorkFive/1.0.0": {
+        "runtime": {
+          "HomeWorkFive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HWLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeWorkFive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

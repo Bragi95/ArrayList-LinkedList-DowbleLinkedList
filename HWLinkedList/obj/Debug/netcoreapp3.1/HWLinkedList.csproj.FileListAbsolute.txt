@@ -1,0 +1,33 @@
+D:\My работы\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.deps.json
+D:\My работы\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.dll
+D:\My работы\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.pdb
+D:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csproj.CoreCompileInputs.cache
+D:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.AssemblyInfoInputs.cache
+D:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.AssemblyInfo.cs
+D:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.dll
+D:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.pdb
+D:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.deps.json
+G:\My работы\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.dll
+G:\My работы\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.pdb
+G:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csproj.CoreCompileInputs.cache
+G:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.AssemblyInfoInputs.cache
+G:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.AssemblyInfo.cs
+G:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.dll
+G:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.pdb
+G:\My работы\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+G:\My работы\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+G:\My работы\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csproj.CopyComplete
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.deps.json
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csprojAssemblyReference.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.AssemblyInfoInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.AssemblyInfo.cs
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csproj.CopyComplete
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.pdb

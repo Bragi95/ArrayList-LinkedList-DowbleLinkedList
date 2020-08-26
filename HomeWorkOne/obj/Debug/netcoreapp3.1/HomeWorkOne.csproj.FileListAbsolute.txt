@@ -1,0 +1,45 @@
+G:\лера работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.deps.json
+G:\лера работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+G:\лера работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+G:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csprojAssemblyReference.cache
+G:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csproj.CoreCompileInputs.cache
+G:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfoInputs.cache
+G:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfo.cs
+G:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.dll
+G:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.pdb
+D:\лера работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.deps.json
+D:\лера работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+D:\лера работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+D:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csprojAssemblyReference.cache
+D:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csproj.CoreCompileInputs.cache
+D:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfoInputs.cache
+D:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfo.cs
+D:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.dll
+D:\лера работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.pdb
+D:\My работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.deps.json
+D:\My работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+D:\My работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+D:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csprojAssemblyReference.cache
+D:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csproj.CoreCompileInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfoInputs.cache
+D:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfo.cs
+D:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.dll
+D:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.pdb
+G:\My работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.deps.json
+G:\My работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+G:\My работы\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+G:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csprojAssemblyReference.cache
+G:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csproj.CoreCompileInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfoInputs.cache
+G:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfo.cs
+G:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.dll
+G:\My работы\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.deps.json
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkOne\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csprojAssemblyReference.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfoInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.AssemblyInfo.cs
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.csproj.CoreCompileInputs.cache
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.dll
+C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkOne\obj\Debug\netcoreapp3.1\HomeWorkOne.pdb
