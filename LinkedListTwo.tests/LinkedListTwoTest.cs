@@ -285,5 +285,15 @@ namespace LinkedListTwo.tests
             int[] actual = lList.ToArray();
             Assert.AreEqual(expected, actual);
         }
+
+        [TestCase(new int[] { 1, 3, 5, 7, 2 }, 5)]
+        [TestCase(new int[] { 1 }, 1)]
+        [TestCase(new int[] { }, 0)]
+        public void LengthTEst(int[] array, int expected)
+        {
+            lList.AddLast(array);
+            int actual = lList.Lenght;
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

@@ -8,7 +8,7 @@ namespace HWLinkedList
     {
         public Node Head { get; set; }
         public Node Tail { get; set; }
-        private int Count;
+        public  int Count = 0;
 
 
         public void AddFirst(int value)

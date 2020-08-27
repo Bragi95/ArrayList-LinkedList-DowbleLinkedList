@@ -360,5 +360,16 @@ namespace HWLinkedList.tests
             int actual = linkedList.IndexOfMin();
             Assert.AreEqual(expected, actual);
         }
+
+        [TestCase(new int[] { 1, 3, 5, 7, 2 }, 5)]
+        [TestCase(new int[] { 1 }, 1)]
+        [TestCase(new int[] { }, 0)]
+        public void LengthTEst(int[] array, int expected)
+        {
+            linkedList.AddLast(array);
+            int actual = linkedList.Count;
+            Assert.AreEqual(expected, actual);
+        }
+
     }    
 }

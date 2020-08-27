@@ -8,7 +8,7 @@ namespace LinkedListTwo
     { 
         public Node Head { get; set; }
         public Node Tail { get; set; }
-        private int Lenght;
+        public  int Lenght = 0;
 
         public LListTwo(int[] array)
         {
