@@ -52,3 +52,12 @@ C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeW
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csproj.CoreCompileInputs.cache
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.dll
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.deps.json
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkThree\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csprojAssemblyReference.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfoInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.AssemblyInfo.cs
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.csproj.CoreCompileInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkThree\obj\Debug\netcoreapp3.1\HomeWorkThree.pdb

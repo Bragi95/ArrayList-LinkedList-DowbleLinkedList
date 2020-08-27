@@ -128,3 +128,29 @@ C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\LinkedL
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CopyComplete
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.genruntimeconfig.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.exe
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.deps.json
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.json
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.runtimeconfig.dev.json
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkAll.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HWLinkedList.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\LinkedListTwo.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkOne.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkThree.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkTwo.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HWLinkedList.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\LinkedListTwo.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csprojAssemblyReference.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfoInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.AssemblyInfo.cs
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CoreCompileInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.csproj.CopyComplete
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkAll\obj\Debug\netcoreapp3.1\HomeWorkAll.genruntimeconfig.cache

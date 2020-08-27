@@ -132,6 +132,17 @@ namespace LinkedListTwo.tests
             Assert.AreEqual(expected, actual);
         }
 
+        [TestCase(new int[] { 1, 3, 5, 6, 2 }, 3, new int[] { 1, 5, 6, 2 })]
+        [TestCase(new int[] { 1, 5, 5, 7, 2 }, 5, new int[] { 1, 7, 2 })]
+        [TestCase(new int[] { 1 }, 4, new int[] { 1 })]
+
+        public void RemoveAllValueTest(int[] array, int value, int[] expected)
+        {
+            lList.AddLast(array);
+            lList.RemoveAll(value);
+            int[] actual = lList.ToArray();
+            Assert.AreEqual(expected, actual);
+        }
 
         [TestCase(new int[] { 2, 4, 6, 8, 10 },6,true)]
         [TestCase(new int[] { 2, 4, 6, 8, 10 }, 0, false)]

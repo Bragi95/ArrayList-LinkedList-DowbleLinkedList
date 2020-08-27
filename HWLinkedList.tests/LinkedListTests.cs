@@ -230,6 +230,18 @@ namespace HWLinkedList.tests
         }
 
 
+        [TestCase(new int[] { 1, 3, 5, 6, 2 },3 ,new int[] { 1, 5, 6, 2 })]
+        [TestCase(new int[] { 1, 5, 5, 7, 2 }, 5,new int[] { 1, 7, 2 })]
+        [TestCase(new int[] { 1 }, 4,new int[] { 1 })]
+        
+        public void RemoveAllValueTest(int[] array,int value ,int[] expected)
+        {
+            linkedList.AddLast(array);
+            linkedList.RemoveAll(value);
+            int[] actual = linkedList.ToArray();
+            Assert.AreEqual(expected, actual);
+        }
+
         [TestCase(new int[] { 1, 3, 5, 7, 2 },3,true)]
         [TestCase(new int[] { 1, 3, 5, 7, 2 }, 40, false)]
         [TestCase(new int[] { 1, 3, 5, 7, 2 }, 7, true)]

@@ -246,10 +246,17 @@ namespace HWLinkedList
             {
                 if(currentNode.Value==value)
                 {
+                    
                     previusNode.Next = currentNode.Next;
+                    currentNode = currentNode.Next;
+                    Count--;
                 }
-                previusNode = currentNode;
-                currentNode = currentNode.Next;
+                else
+                {
+                    previusNode = currentNode;
+                    currentNode = currentNode.Next;
+
+                }
             }
         }
 

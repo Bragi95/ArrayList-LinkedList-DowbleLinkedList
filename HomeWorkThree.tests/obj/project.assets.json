@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree.tests\\HomeWorkThree.tests.csproj",
+      "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree.tests\\HomeWorkThree.tests.csproj",
       "projectName": "HomeWorkThree.tests",
-      "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree.tests\\HomeWorkThree.tests.csproj",
+      "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree.tests\\HomeWorkThree.tests.csproj",
       "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree.tests\\obj\\",
+      "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree.tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4669,8 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj": {
-              "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj"
+            "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree\\HomeWorkThree.csproj": {
+              "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree\\HomeWorkThree.csproj"
             }
           }
         }

@@ -43,3 +43,12 @@ C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWor
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWorkTwo.csproj.CoreCompileInputs.cache
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWorkTwo.dll
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWorkTwo.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkTwo\bin\Debug\netcoreapp3.1\HomeWorkTwo.deps.json
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkTwo\bin\Debug\netcoreapp3.1\HomeWorkTwo.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkTwo\bin\Debug\netcoreapp3.1\HomeWorkTwo.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWorkTwo.csprojAssemblyReference.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWorkTwo.AssemblyInfoInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWorkTwo.AssemblyInfo.cs
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWorkTwo.csproj.CoreCompileInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWorkTwo.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkTwo\obj\Debug\netcoreapp3.1\HomeWorkTwo.pdb

@@ -259,9 +259,14 @@ namespace LinkedListTwo
                 {
                     previusNode.Next = currentNode.Next;
                     currentNode.Next.Previous = currentNode;
+                    currentNode = currentNode.Next;
+                    Lenght--;
                 }
-                previusNode = currentNode;
-                currentNode = currentNode.Next;
+                else
+                {
+                    previusNode = currentNode;
+                    currentNode = currentNode.Next;
+                }
             }
         }
 

@@ -4667,11 +4667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList.tests\\HWLinkedList.tests.csproj",
+      "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList.tests\\HWLinkedList.tests.csproj",
       "projectName": "HWLinkedList.tests",
-      "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList.tests\\HWLinkedList.tests.csproj",
+      "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList.tests\\HWLinkedList.tests.csproj",
       "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList.tests\\obj\\",
+      "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList.tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4687,8 +4687,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj": {
-              "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj"
+            "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList\\HWLinkedList.csproj": {
+              "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList\\HWLinkedList.csproj"
             }
           }
         }

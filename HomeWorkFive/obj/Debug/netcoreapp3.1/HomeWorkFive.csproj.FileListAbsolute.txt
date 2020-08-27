@@ -25,3 +25,12 @@ C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWo
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.csproj.CoreCompileInputs.cache
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.dll
 C:\Users\Daramir\Desktop\HomeWorkAll\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.deps.json
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkFive\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.csprojAssemblyReference.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.AssemblyInfoInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.AssemblyInfo.cs
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.csproj.CoreCompileInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HomeWorkFive\obj\Debug\netcoreapp3.1\HomeWorkFive.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj": {}
+    "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree\\HomeWorkThree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj": {
+    "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree\\HomeWorkThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj",
+        "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree\\HomeWorkThree.csproj",
         "projectName": "HomeWorkThree",
-        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\HomeWorkThree.csproj",
+        "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree\\HomeWorkThree.csproj",
         "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkThree\\obj\\",
+        "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkThree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj",
+      "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkOne\\HomeWorkOne.csproj",
       "projectName": "HomeWorkOne",
-      "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\HomeWorkOne.csproj",
+      "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkOne\\HomeWorkOne.csproj",
       "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkOne\\obj\\",
+      "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkOne\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",

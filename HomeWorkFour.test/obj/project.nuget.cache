@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5bt1BEXQUqcvK23PpLCY+ILOnMoIAKNKnEAuzaOfiBmPPtnvwx9wuQ1eq0f3ZVTL5DaPpUOKTXhruMRyme1yxA==",
+  "dgSpecHash": "1kOt/depjzzNB1rPfRtqk92b4gQ5VIbWKC/19hNp2xQZNjEeg5XhJW/XtkdUrpcYoy1nvwHFVFtlnb+y8VRNzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFour.test\\HomeWorkFour.test.csproj",
+  "projectFilePath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFour.test\\HomeWorkFour.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daramir\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\Daramir\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -31,3 +31,15 @@ C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLink
 C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csproj.CopyComplete
 C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.dll
 C:\Users\Daramir\Desktop\HomeWorkAll\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.deps.json
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\bin\Debug\netcoreapp3.1\HWLinkedList.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\bin\Debug\netcoreapp3.1\HomeWorkFive.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\bin\Debug\netcoreapp3.1\HomeWorkFive.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csprojAssemblyReference.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.AssemblyInfoInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.AssemblyInfo.cs
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csproj.CoreCompileInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.csproj.CopyComplete
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\HWLinkedList\obj\Debug\netcoreapp3.1\HWLinkedList.pdb

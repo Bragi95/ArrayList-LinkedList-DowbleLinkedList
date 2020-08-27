@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj": {}
+    "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList\\HWLinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj": {
+    "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive\\HomeWorkFive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj",
+        "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive\\HomeWorkFive.csproj",
         "projectName": "HomeWorkFive",
-        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj",
+        "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive\\HomeWorkFive.csproj",
         "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\obj\\",
+        "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj": {
+    "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList\\HWLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj",
+        "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList\\HWLinkedList.csproj",
         "projectName": "HWLinkedList",
-        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\HWLinkedList.csproj",
+        "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList\\HWLinkedList.csproj",
         "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList\\obj\\",
+        "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj": {
-                "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj"
+              "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive\\HomeWorkFive.csproj": {
+                "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive\\HomeWorkFive.csproj"
               }
             }
           }

@@ -16,3 +16,12 @@ C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\Linke
 C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.csproj.CoreCompileInputs.cache
 C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.dll
 C:\Users\Daramir\Desktop\HomeWorkAll\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\LinkedListTwo\bin\Debug\netcoreapp3.1\LinkedListTwo.deps.json
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\LinkedListTwo\bin\Debug\netcoreapp3.1\LinkedListTwo.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\LinkedListTwo\bin\Debug\netcoreapp3.1\LinkedListTwo.pdb
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.csprojAssemblyReference.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.AssemblyInfoInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.AssemblyInfo.cs
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.csproj.CoreCompileInputs.cache
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.dll
+F:\My работы\ArrayList-LinkedList-DowbleLinkedList\LinkedListTwo\obj\Debug\netcoreapp3.1\LinkedListTwo.pdb

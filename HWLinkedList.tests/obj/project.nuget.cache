@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tu7Wh3QhJzVut0x+ulanhN7U+tfTcmUXA0ynDtmAm99nA/7/rGyEMGvBqret3eT7gBAjDJwwq45ZwjP9nUtL+g==",
+  "dgSpecHash": "Bu8lMWZEXYvroKxtenbYP+ac0s1H83y2j3T6ypJoi31pCLNCbq5UcXZcGNVJL27qoxFD+jl39d1qjgYDML+MLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HWLinkedList.tests\\HWLinkedList.tests.csproj",
+  "projectFilePath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HWLinkedList.tests\\HWLinkedList.tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daramir\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\Daramir\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

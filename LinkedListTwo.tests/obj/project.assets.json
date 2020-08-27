@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo.tests\\LinkedListTwo.tests.csproj",
+      "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\LinkedListTwo.tests\\LinkedListTwo.tests.csproj",
       "projectName": "LinkedListTwo.tests",
-      "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo.tests\\LinkedListTwo.tests.csproj",
+      "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\LinkedListTwo.tests\\LinkedListTwo.tests.csproj",
       "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo.tests\\obj\\",
+      "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\LinkedListTwo.tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4669,8 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj": {
-              "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\LinkedListTwo\\LinkedListTwo.csproj"
+            "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\LinkedListTwo\\LinkedListTwo.csproj": {
+              "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\LinkedListTwo\\LinkedListTwo.csproj"
             }
           }
         }

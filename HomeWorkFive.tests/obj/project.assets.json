@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive.tests\\HomeWorkFive.tests.csproj",
+      "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive.tests\\HomeWorkFive.tests.csproj",
       "projectName": "HomeWorkFive.tests",
-      "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive.tests\\HomeWorkFive.tests.csproj",
+      "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive.tests\\HomeWorkFive.tests.csproj",
       "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive.tests\\obj\\",
+      "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive.tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4669,8 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj": {
-              "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkFive\\HomeWorkFive.csproj"
+            "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive\\HomeWorkFive.csproj": {
+              "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkFive\\HomeWorkFive.csproj"
             }
           }
         }

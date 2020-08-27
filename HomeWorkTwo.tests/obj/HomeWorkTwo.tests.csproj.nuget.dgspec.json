@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo.tests\\HomeWorkTwo.tests.csproj": {}
+    "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo.tests\\HomeWorkTwo.tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo.tests\\HomeWorkTwo.tests.csproj": {
+    "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo.tests\\HomeWorkTwo.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo.tests\\HomeWorkTwo.tests.csproj",
+        "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo.tests\\HomeWorkTwo.tests.csproj",
         "projectName": "HomeWorkTwo.tests",
-        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo.tests\\HomeWorkTwo.tests.csproj",
+        "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo.tests\\HomeWorkTwo.tests.csproj",
         "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo.tests\\obj\\",
+        "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj": {
-                "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj"
+              "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo\\HomeWorkTwo.csproj": {
+                "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo\\HomeWorkTwo.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj": {
+    "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo\\HomeWorkTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj",
+        "projectUniqueName": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo\\HomeWorkTwo.csproj",
         "projectName": "HomeWorkTwo",
-        "projectPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\HomeWorkTwo.csproj",
+        "projectPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo\\HomeWorkTwo.csproj",
         "packagesPath": "C:\\Users\\Daramir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daramir\\Desktop\\HomeWorkAll\\HomeWorkTwo\\obj\\",
+        "outputPath": "F:\\My работы\\ArrayList-LinkedList-DowbleLinkedList\\HomeWorkTwo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
